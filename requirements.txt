@@ -1,0 +1,4 @@
+wikipedia
+gtts
+playsound
+pygobject
