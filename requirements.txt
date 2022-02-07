@@ -2,3 +2,5 @@ wikipedia
 gtts
 playsound
 pygobject
+SpeechRecognition
+pyaudio
